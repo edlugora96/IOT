@@ -9,7 +9,7 @@
     "@elastic/elasticsearch": "^7.8.0",
     "@serialport/bindings": "^9.0.1",
     "aedes": "^0.42.5",
-    "apollo-server": "^2.16.1",
+    "apollo-server": "^2.25.3",
     "bcrypt": "^5.0.0",
     "crypto-random-string": "^3.2.0",
     "dotenv": "^8.2.0",
